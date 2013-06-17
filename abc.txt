@@ -1,5 +1,13 @@
 abe ye kya kara hai ...????
 this is some text
 hey nama i have changed some text in this file..............
+<<<<<<< HEAD
 bhai mast commit ho raha h 
 maja aa raha h bc karne me
+=======
+
+hey, this change is made by Shahab Ahmad Khan
+>>>>>>> 92e6873076be6f8b6373a20b815d6c677405219b
+
+
+changes by kuldeep sharma
